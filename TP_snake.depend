@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518081636 source:c:\users\anthony lamour\documents\ludus academie\c\tp_snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+
